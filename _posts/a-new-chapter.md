@@ -1,10 +1,7 @@
 ---
-title: A New Chapter: Diving Into Systems Programming
-date: 2025-05-16
-layout: post
+title: A New Chapter - Diving Into Systems Programming
 ---
 
-# A New Chapter: Diving Into Systems Programming
 
 Hey everyone 👋,
 
