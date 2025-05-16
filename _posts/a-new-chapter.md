@@ -1,5 +1,7 @@
 ---
 title: A New Chapter - Diving Into Systems Programming
+date: 2025-05-15
+layout: post
 ---
 
 
