@@ -17,7 +17,7 @@ So, I’m hitting the reset button.
 
 I want to fall in love with computing again. That means digging beneath the surface—closer to the metal. Less framework, more fundamentals. Less copy-paste, more thinking. I’m moving into systems programming. I don’t have it all figured out yet, but that’s the point. This is about exploration, curiosity, and challenge.
 
-I'll be working with low-level languages like **C, C++, Rust, Go, and Elixir/Erlang**. It’ll be a mix of reading, building, breaking, and rebuilding—lots of docs, lots of books. To keep me on track and make this fun, I asked ChatGPT to generate a roadmap. Here's what it came up with:
+I'll be working with low-level languages like **C, C++, Rust, Go, lua , and Elixir/Erlang**. It’ll be a mix of reading, building, breaking, and rebuilding—lots of docs, lots of books. To keep me on track and make this fun, I asked ChatGPT to generate a roadmap. Here's what it came up with:
 
 ---
 
